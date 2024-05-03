@@ -1,0 +1,35 @@
+.contacts {
+  display: flex;
+  flex-direction: row;
+  width: 1300px;
+  height: 550px;
+  color: white;
+}
+
+.contacts-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  text-align: center;
+  margin-right: 100px;
+}
+
+.contacts-info h2 {
+  margin-bottom: 40px;
+}
+
+.location {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+}
+
+.hr-vertical {
+  border-left: 1px solid white;
+  height: 70%;
+  margin: auto 20px;
+}

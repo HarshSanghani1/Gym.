@@ -1,0 +1,13 @@
+footer:hover {
+  box-shadow: 8px 8px 12px #FFF;
+}
+
+footer .copyright:hover {
+  color: white;
+  cursor: alias;
+}
+
+footer a.btn-link.btn-floating:hover i {
+ 
+  color: white;
+}

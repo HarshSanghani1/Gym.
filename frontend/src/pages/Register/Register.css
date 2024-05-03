@@ -1,0 +1,58 @@
+.Registration {
+  width: 900px;
+  height: 570px;
+  color: black;
+  border: 2px solid white;
+  background-color: rgba(255, 255, 255, 0.4);
+  color: white;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  overflow: auto;
+}
+
+.Title {
+  text-align: center;
+  margin-bottom: -10px;
+  margin-top: -10px;
+}
+
+.Title h1 {
+  color: black;
+}
+
+.logo img {
+  width: 70px;
+  height: 60px;
+  margin-left: 20px;
+}
+
+.Title small {
+  color: black;
+}
+
+.Title small:hover {
+  text-decoration: underline;
+  cursor: default;
+  color: rgb(212, 110, 92);
+}
+
+.Registration hr {
+  width: 60%;
+}
+
+.form-group {
+  font-size: 15px;
+}
+
+.form-group label {
+  color: black;
+}
+
+.form-group input {
+  width: 60%;
+  font-size: 12px;
+}
+
+.Registration button {
+  margin-top: 35px;
+}
